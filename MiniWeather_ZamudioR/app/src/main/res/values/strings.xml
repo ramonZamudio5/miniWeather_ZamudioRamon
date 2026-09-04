@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MiniWeather_ZamudioR</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="rainy">lluvioso</string>
+    <string name="cloudy">nublado</string>
+    <string name="stormy">tormentoso</string>
+    <string name="snowy">nieve</string>
+    <string name="sunny">soleado</string>
+    <string name="windy">viento</string>
+    <string name="good_morning">¡Buenos Dias!</string>
+    <string name="good_afternoon">¡Buenas tardes!</string>
+    <string name="good_evening">¡Buenas noches!</string>
 </resources>
