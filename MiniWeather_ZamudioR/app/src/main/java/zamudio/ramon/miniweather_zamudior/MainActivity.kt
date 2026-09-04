@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         }
         val weatherSerice : WeatherService = WeatherService(this)
         val weather = weatherSerice.getWeather(citySelected)
-        temperature.text = weather.temperature.toString()
+        temperature.text = "${weather.temperature.toString()}°C"
         city.text = citySelected
         tvWeather.text = weather.Weather
         when (weather.Weather){
